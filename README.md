@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://profile.intra.42.fr/users/keulee" target="_blank"><img src="https://img.shields.io/badge/000000?style=plat&logo=42&logoColor=000000"/></a>
+<img alt="Html" src ="https://img.shields.io/badge/42.svg?&style=for-the-badge&logo=42&logoColor=white"/><a href="https://profile.intra.42.fr/users/keulee" target="_blank"><img src="https://img.shields.io/badge/000000?style=plat&logo=&logoColor=000000"/></a>
