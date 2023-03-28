@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://42.fr/" target="_blank"><img src="https://img.shields.io/badge/42Paris-000000?style=plat-square&logo=42&logoColor=white"/></a>
+<a href="mailto:klee8903@gmail.com" target="_blank"><img src="https://img.shields.io/badge/klee8903@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
