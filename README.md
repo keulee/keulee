@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Keungeun LEE (a.k.a keulee) 👋
 
 <!--
 **keulee/keulee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img alt="Html" src ="https://img.shields.io/badge/42.svg?&style=for-the-badge&logo=42&logoColor=white"/><a href="https://profile.intra.42.fr/users/keulee" target="_blank"><img src="https://img.shields.io/badge/000000?style=plat&logo=&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/>
