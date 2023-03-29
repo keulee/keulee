@@ -45,6 +45,8 @@ as well as climbing🧗‍♀️, swimming🏊‍♀️, and biking🚴‍♀️
 
 ### 📈 Github Stats
 
-![Keulee's GitHub stats](https://github-readme-stats.vercel.app/api?username=keulee&show_icons=true&theme=radical)
+![Keulee's GitHub stats](https://github-readme-stats.vercel.app/api?username=keulee&show_icons=true&theme=radical&count_private=true)
 
 </div>
+
+
