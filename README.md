@@ -41,12 +41,14 @@ as well as climbing🧗‍♀️, swimming🏊‍♀️, and biking🚴‍♀️
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B"/> <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
 </p>
 
-<br>
+</div>
 
+<!--
+<br>
 ### 📈 Github Stats
 
 ![Keulee's GitHub stats](https://github-readme-stats.vercel.app/api?username=keulee&show_icons=true&theme=radical&count_private=true)
-
 </div>
+-->
 
 
