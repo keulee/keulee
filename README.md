@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
 💻 I've been a student at **42Paris** since 2019 Nov, and I'm passionate about **front-end & back-end development**.
 <br>
-😎 interested in **Javascript, ReactJS, TypeScript, Next.JS**
+😎 interested in **Javascript, ReactJS, TypeScript, NextJS**
 <br>
 <br>
 👾 My interests include singing🎤, dancing💃, and photography📷,
